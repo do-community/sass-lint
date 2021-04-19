@@ -35,7 +35,7 @@
     "fs-extra": "^3.0.1",
     "glob": "^7.0.0",
     "globule": "^1.0.0",
-    "gonzales-pe-sl": "^4.2.3",
+    "gonzales-pe": "^4.3.0",
     "js-yaml": "^3.5.4",
     "known-css-properties": "^0.3.0",
     "lodash.capitalize": "^4.1.0",
