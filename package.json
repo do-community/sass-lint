@@ -40,7 +40,7 @@
     "known-css-properties": "^0.3.0",
     "lodash.capitalize": "^4.1.0",
     "lodash.kebabcase": "^4.0.0",
-    "merge": "^1.2.0",
+    "merge": "^2.1.1",
     "path-is-absolute": "^1.0.0",
     "util": "^0.10.3"
   },
